@@ -2,7 +2,7 @@
 
 A self-taught programmer from Indore, India.
 
-- 🔭 I’m currently working as a Technical Lead at [VegasLit](https://vegaslit.com/).
+- 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning Native Android & iOS Development.
 - 👯 I’m looking to collaborate on great startup ideas.
 - 🤔 I’m looking for help with designing.
